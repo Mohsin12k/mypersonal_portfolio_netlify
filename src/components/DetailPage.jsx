@@ -12,7 +12,7 @@ const DetailPage = ({
     <section
       className={`
       absolute z-10 
-      bg-gray-600 w-[30%] h-[65%] 
+      bg-gray-600 w-[30%] h-[75%] 
       rounded-lg border-none outline-none
       focus:shadow-[0_0_20px_5px_#4ade80]
       hover:shadow-[0_0_20px_5px_#4ade80]
