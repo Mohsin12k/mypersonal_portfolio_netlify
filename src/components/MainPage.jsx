@@ -4,7 +4,7 @@ const MainPage = ({ setActive, toggleBtn, setToggleBtn, active }) => {
   return (
     <section
       className={` absolute z-20
-      group/hf bg-gray-600 w-[30%] h-[65%] 
+      group/hf bg-gray-600 w-[30%] h-[75%] 
       rounded-lg border-none outline-none
       transition-all duration-300 ease-in-out 
       focus:shadow-[0_0_20px_5px_#4ade80]
